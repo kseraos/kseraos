@@ -12,5 +12,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
+</br>
 
+Meu objetivo é contribuir para projetos de código aberto, aprender com a comunidade de desenvolvedores e compartilhar meu conhecimento para ajudar a tornar a web um lugar melhor.
 
