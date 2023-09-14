@@ -14,5 +14,7 @@
 </div>
 </br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kseraos)](https://github.com/anuraghazra/github-readme-stats)
+
 Meu objetivo é contribuir para projetos de código aberto, aprender com a comunidade de desenvolvedores e compartilhar meu conhecimento para ajudar a tornar a web um lugar melhor.
 
