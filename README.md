@@ -1,6 +1,6 @@
 ### Hello, I'm Kristine Santana! ✨
 
-![kseraos GitHub stats](https://github-readme-stats.vercel.app/api?username=kseraos&show_icons=true&theme=dracula)
+![kseraos GitHub stats](https://github-readme-stats.vercel.app/api?username=kseraos&show_icons=true&theme=radical)
 
 
 
